@@ -1,7 +1,7 @@
 # ESP32 WROOM 32 Elevator Simulation
 
 ## Overview
-This project simulates a 4-floor elevator system using an ESP32 WROOM 32 microcontroller. The system features call buttons for each floor, LED indicators for the current floor position, a door open indicator, and comprehensive serial output for monitoring elevator status.
+This project simulates a 4-floor elevator system using an ESP32 WROOM 32 microcontroller. The system features call buttons for each floor, LED indicators for the current floor position, a door open indicator, and comprehensive serial output for monitoring elevator status. Completed in February 2026
 
 ## Features
 ✅ 4 tactile momentary switches for floor call buttons
